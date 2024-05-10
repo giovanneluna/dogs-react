@@ -1,3 +1,6 @@
+# Dogs
+Project designed to deepen our studies using React and Javascript. The API used in this project is public, and its data is reset every 10 minutes.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
